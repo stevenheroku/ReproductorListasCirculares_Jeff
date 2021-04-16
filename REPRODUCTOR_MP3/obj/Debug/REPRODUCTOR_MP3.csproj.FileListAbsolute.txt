@@ -1,0 +1,37 @@
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\bin\Debug\REPRODUCTOR_MP3.exe.config
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\bin\Debug\REPRODUCTOR_MP3.exe
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\bin\Debug\REPRODUCTOR_MP3.pdb
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.csprojAssemblyReference.cache
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.Form1.resources
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.Properties.Resources.resources
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.csproj.GenerateResource.cache
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.csproj.CopyComplete
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.exe
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.pdb
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.csproj.ResolveComReference.cache
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.Form2.resources
+C:\Users\Jefferson Rueda\source\repos\REPRODUCTOR_MP3\REPRODUCTOR_MP3\bin\Debug\MACTrackBarLib.dll
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\bin\Debug\REPRODUCTOR_MP3.exe.config
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\bin\Debug\REPRODUCTOR_MP3.exe
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\bin\Debug\REPRODUCTOR_MP3.pdb
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\bin\Debug\MACTrackBarLib.dll
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\bin\Debug\Interop.WMPLib.dll
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\bin\Debug\AxInterop.WMPLib.dll
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.csprojAssemblyReference.cache
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\Interop.WMPLib.dll
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\AxInterop.WMPLib.dll
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.csproj.ResolveComReference.cache
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.Form1.resources
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.Form2.resources
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.Properties.Resources.resources
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.csproj.GenerateResource.cache
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.csproj.CoreCompileInputs.cache
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.csproj.CopyComplete
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.exe
+C:\PlayList\REPRODUCTOR_MP3\REPRODUCTOR_MP3\obj\Debug\REPRODUCTOR_MP3.pdb
